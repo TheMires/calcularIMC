@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\bin\Debug\net5.0\CalculodeIMC.exe
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\bin\Debug\net5.0\CalculodeIMC.deps.json
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\bin\Debug\net5.0\CalculodeIMC.runtimeconfig.json
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\bin\Debug\net5.0\CalculodeIMC.runtimeconfig.dev.json
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\bin\Debug\net5.0\CalculodeIMC.dll
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\bin\Debug\net5.0\CalculodeIMC.pdb
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\obj\Debug\net5.0\CalculodeIMC.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\obj\Debug\net5.0\CalculodeIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\obj\Debug\net5.0\CalculodeIMC.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\obj\Debug\net5.0\CalculodeIMC.AssemblyInfo.cs
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\obj\Debug\net5.0\CalculodeIMC.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\obj\Debug\net5.0\CalculodeIMC.dll
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\obj\Debug\net5.0\refint\CalculodeIMC.dll
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\obj\Debug\net5.0\CalculodeIMC.pdb
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\obj\Debug\net5.0\CalculodeIMC.genruntimeconfig.cache
+C:\Users\User\source\repos\CalculodeIMC\CalculodeIMC\obj\Debug\net5.0\ref\CalculodeIMC.dll
